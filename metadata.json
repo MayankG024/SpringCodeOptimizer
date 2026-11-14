@@ -1,0 +1,6 @@
+{
+  "name": "Compiler Design Project Report & Java Swing Optimizer",
+  "description": "All-inclusive undergraduate Compiler Design project report, presentation snapshots, interactive Java Swing GUI simulator, and compilable Java codebase for Intermediate Code Optimization (Constant Folding, Common Sub-Expression Elimination, and Dead Code Removal).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
